@@ -1,0 +1,7 @@
+*.pptx
+*.csv
+*.py
+*.h5
+*.txt
+*.pdf
+.vscode/
