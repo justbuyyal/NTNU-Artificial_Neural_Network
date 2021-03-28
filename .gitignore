@@ -1,7 +1,10 @@
+# File
 *.pptx
 *.csv
 *.py
 *.h5
 *.txt
 *.pdf
+*.png
+# Folder
 .vscode/
