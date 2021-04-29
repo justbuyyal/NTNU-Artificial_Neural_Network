@@ -8,5 +8,7 @@
 *.png
 *.md
 *.zip
+*.gif
+
 # Folder
 .vscode/
