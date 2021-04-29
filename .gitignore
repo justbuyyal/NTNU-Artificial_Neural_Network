@@ -1,7 +1,7 @@
 # File
 *.pptx
 *.csv
-*.py
+#*.py
 *.h5
 *.txt
 *.pdf
